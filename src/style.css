@@ -56,13 +56,13 @@ p {
 	text-decoration: none;
 	background: var(--primary-color);
 	box-shadow: var(--box-shadow);
-	color: white;
+	color: var(--secondary-color);
 }
 
 .contact-link {
 	background: var(--primary-color);
 	box-shadow: var(--box-shadow);
-	color: white;
+	color: var(--secondary-color);
 }
 
 .about-link {
